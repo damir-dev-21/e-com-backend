@@ -10,7 +10,6 @@ djoser==2.1.0
 environs==8.0.0
 pip-review==1.1.0
 pkginfo==1.7.0
-psycopg2-binary==2.9.1
 pylint==2.9.3
 pyquery==1.4.3
 python-dotenv==0.18.0
