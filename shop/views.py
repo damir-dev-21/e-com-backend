@@ -125,7 +125,7 @@ class StatusItems(APIView):
 
 
             if t.days >= -3 and t.days <= 0:
-                print(t)
+                
                 item = model_to_dict(i)
                 list_of_news.append(item)
 
